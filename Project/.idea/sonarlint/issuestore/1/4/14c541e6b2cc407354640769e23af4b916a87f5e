@@ -1,0 +1,8 @@
+
+Psquid:S3655"4Call "movie.isPresent()" before accessing the value.(Şşøİ8ĞîÓ§¯,
+Psquid:S3655"4Call "movie.isPresent()" before accessing the value.(àĞ8ĞîÓ§¯,
+Psquid:S3655"4Call "movie.isPresent()" before accessing the value.(àĞ8ĞîÓ§¯,
+Rsquid:S3655"6Call "theater.isPresent()" before accessing the value.(Ÿ¦è÷8ĞîÓ§¯,
+Usquid:S3655"4Call "movie.isPresent()" before accessing the value.(„Âıÿÿÿÿ8ĞîÓ§¯,
+Nsquid:S3655"3Call "user.isPresent()" before accessing the value.(Àğ68ĞîÓ§¯,
+¬%squid:RedundantThrowsDeclarationCheck"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(Ÿ™µëşÿÿÿÿ8ĞîÓ§¯,

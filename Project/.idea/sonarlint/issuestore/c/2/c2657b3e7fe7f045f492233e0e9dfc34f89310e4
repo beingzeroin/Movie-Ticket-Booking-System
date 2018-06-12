@@ -1,0 +1,5 @@
+
+Lsquid:UselessImportCheck"Remove this duplicated import.(¶Ğïœùÿÿÿÿ8¹áÅù®,
+Wsquid:S3655";Call "theatreOwner.isPresent()" before accessing the value.(±¼—Â8¹áÅù®,
+Rsquid:S3655"6Call "theatre.isPresent()" before accessing the value.(øŒÊ›8Ä½Éù®,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ˆ³»Ìÿÿÿÿÿ8¹áÅù®,
